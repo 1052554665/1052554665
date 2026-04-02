@@ -35,7 +35,7 @@ graph TD;
 
 ---
 > Stay hungry, stay foolish.
-- Steve Jobs
+— Steve Jobs
 
 
 
