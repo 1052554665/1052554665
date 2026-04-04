@@ -8,7 +8,7 @@
 <!-- TO DO: add more details about me later -->
 
 Hi, I'm Yang Chen.
-- 🔭 I’m currently working on postgraduate degree.
+- 🔭 I’m currently pursuing postgraduate degree.
 - 🌱 I’m currently learning signal processing, voiceprint recognition, data sicence and artificial intelligence.
 - 📫 How to reach me: chen1052554665@gmail.com
 
@@ -18,19 +18,18 @@ Hi, I'm Yang Chen.
 | Rank | Languages |
 |-----:|---------------|
 |     1| Python          |
-|     2| Java        |
-|     3| Matlab          |
+|     2| Matlab        |
+|     3| Java          |
 |     4| C++          |
 </details>
-
 
 Here is a simple flow chart for my research.
 <!-- The mermaid can not input space. -->
 ```mermaid
 graph TD;
     Signal_collection_and_Preprocessing-->Feature_representation_and_Dataset_construction;
-    Feature_representation_and_Dataset_construction-->Transforms_fault_diagnosis;
-    Classification_network_and_Train-->Transforms_fault_diagnosis;
+    Feature_representation_and_Dataset_construction-->Fault_diagnosis;
+    Classification_network_and_Train-->Fault_diagnosis;
 ```
 
 ---
