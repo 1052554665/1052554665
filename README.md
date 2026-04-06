@@ -21,6 +21,7 @@ Hi, I'm Yang Chen.
 |     2| Matlab        |
 |     3| Java          |
 |     4| C++          |
+|     5| Shell          |
 </details>
 
 Here is a simple flow chart for my research.
