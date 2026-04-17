@@ -8,6 +8,7 @@
 <!-- TO DO: add more details about me later -->
 
 Hi, I'm Yang Chen.
+
 - 🔭 I’m currently pursuing postgraduate degree.
 - 🌱 I’m currently learning signal processing, voiceprint recognition, data sicence and artificial intelligence.
 - 📫 How to reach me: chen1052554665@gmail.com
@@ -36,7 +37,3 @@ graph TD;
 ---
 > Stay hungry, stay foolish.
 — Steve Jobs
-
-
-
-
