@@ -20,8 +20,9 @@ Hi, I'm Yang Chen.
 |-----:|---------------|
 |     1| Python          |
 |     2| Matlab        |
-|     3| Java          |
-|     4| C++          |
+|     3| C          |
+|     4| C++         |
+|     4| Java        |
 |     5| Shell          |
 </details>
 
