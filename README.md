@@ -40,27 +40,56 @@ graph TD;
 
 ---
 > 纸上得来终觉浅 绝知此事要躬行
+## 🎯 Forks and Stars
+Notion + Obsidian 双模板体系
+
+### 📚 Deep Learning
+| 项目 | 链接 | 状态 | 是否Fork | 优先级 | 备注 |
+|------|------|------|----------|--------|------|
+| awesome-knowledge-distillation | https://github.com/dkozlov/awesome-knowledge-distillation | ❌未整理 | ❌ | ⭐⭐ | 知识蒸馏资源合集 |
+| deep-learning-for-image-processing | https://github.com/WZMIAOMIAO/deep-learning-for-image-processing | ❌未整理 | ❌ | ⭐⭐⭐ | 图像处理深度学习教程 |
 
 
-# 🎯 Forks and Stars
+---
 
-## 声纹 / 音频
-- 项目1（链接）→ 已复现
-- 项目2（链接）→ 未运行
-
-## 深度学习
-- PINN项目 → 已参考
+### 🔊 Acoustic
+| 项目 | 链接 | 状态 | 是否Fork | 优先级 | 备注 |
+|------|------|------|----------|--------|------|
+| RIR-Generator | https://github.com/ehabets/RIR-Generator | ❌未整理 | ❌ | ⭐⭐⭐⭐ | 房间脉冲响应生成（阵列关键） |
 
 
+---
+
+### 📄 Paper / Experiments
+
+| 项目 | 链接 | 状态 | 是否Fork | 优先级 | 备注 |
+|------|------|------|----------|--------|------|
+| gpuRIR | https://github.com/DavidDiazGuerra/gpuRIR | 💡可用 | ✔ | ⭐⭐⭐⭐⭐ | 可用于论文/实验（强相关） |
+| sciwrite | https://github.com/labarba/sciwrite | ❌未看 | ❌ | ⭐ | 学术写作工具 |
+| next-ai-draw-io | https://github.com/DayuanJiang/next-ai-draw-io | ❌未整理 | ❌ | ⭐⭐ | AI流程图工具 |
 
 
-⭐ [software_designer](https://github.com/xiaomabenten/software_designer) → 🔄进行中  
-⭐ [Software-Designer](https://github.com/luckyzhz/Software-Designer) → 🔄进行中  
-⭐ [my-ielts](https://github.com/hefengxian/my-ielts) → 🔄进行中  
-⭐ [awesome-IELTS](https://github.com/shah0150/awesome-IELTS) → 🔄进行中  
-⭐ [magic-resume](https://github.com/JOYCEQL/magic-resume) → ✅已复现  
-⭐ [gpuRIR](https://github.com/DavidDiazGuerra/gpuRIR) → 💡可用到论文/实验  
-⭐ [sciwrite](https://github.com/labarba/sciwrite) → ❌未看    
+---
+
+### 📝 Examination
+
+| 项目 | 链接 | 状态 | 是否Fork | 优先级 | 备注 |
+|------|------|------|----------|--------|------|
+| software_designer | https://github.com/xiaomabenten/software_designer | 🔄进行中 | ❌ | ⭐⭐⭐ | 软件设计师备考 |
+| Software-Designer | https://github.com/luckyzhz/Software-Designer | 🔄进行中 | ❌ | ⭐⭐⭐ | 软件设计师资料 |
+| my-ielts | https://github.com/hefengxian/my-ielts | 🔄进行中 | ❌ | ⭐⭐ | 雅思学习 |
+| awesome-IELTS | https://github.com/shah0150/awesome-IELTS | 🔄进行中 | ❌ | ⭐⭐ | 雅思资源合集 |
+
+
+---
+
+### 🚀 Forked and Achieved
+
+
+| 项目 | 链接 | 状态 | 是否Fork | 优先级 | 备注 |
+|------|------|------|----------|--------|------|
+| magic-resume | https://github.com/JOYCEQL/magic-resume | ✅已复现 | ✔ | ⭐⭐⭐ | 简历生成工具 |
+| markitdown | https://github.com/microsoft/markitdown | ❌未整理 | ❌ | ⭐⭐ | Markdown处理工具 |
 
 
 ---
