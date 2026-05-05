@@ -5,7 +5,10 @@
 </picture>
 
 # About me
+> Stay hungry, stay foolish.
+— Steve Jobs
 <!-- TO DO: add more details about me later -->
+
 
 Hi, I'm Yang Chen.
 
@@ -36,5 +39,54 @@ graph TD;
 ```
 
 ---
-> Stay hungry, stay foolish.
-— Steve Jobs
+> 纸上得来终觉浅 绝知此事要躬行
+
+
+# 🎯 Forks and Stars
+
+## 声纹 / 音频
+- 项目1（链接）→ 已复现
+- 项目2（链接）→ 未运行
+
+## 深度学习
+- PINN项目 → 已参考
+
+
+
+
+⭐ [software_designer](https://github.com/xiaomabenten/software_designer) → 🔄进行中  
+⭐ [Software-Designer](https://github.com/luckyzhz/Software-Designer) → 🔄进行中  
+⭐ [my-ielts](https://github.com/hefengxian/my-ielts) → 🔄进行中  
+⭐ [awesome-IELTS](https://github.com/shah0150/awesome-IELTS) → 🔄进行中  
+⭐ [magic-resume](https://github.com/JOYCEQL/magic-resume) → ✅已复现  
+⭐ [gpuRIR](https://github.com/DavidDiazGuerra/gpuRIR) → 💡可用到论文/实验  
+⭐ [sciwrite](https://github.com/labarba/sciwrite) → ❌未看    
+
+
+---
+
+Stars:
+* 觉得有价值
+* 未来可能会看
+* 还没深入使用
+
+
+Forks:
+* 改代码
+* 运行项目
+* 要写论文复现
+* 基于它做二次开发
+
+
+```md
+README.md
+## 我做了什么
+- 跑通了
+- 改了模型参数
+- 用于声纹分类等
+
+## 遇到问题
+- CUDA问题
+- 路径问题
+```
+
