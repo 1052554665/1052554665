@@ -37,13 +37,17 @@ graph TD;
     Feature_representation_and_Dataset_construction-->Fault_diagnosis;
     Classification_network_and_Train-->Fault_diagnosis;
 ```
-
+---
+# Current projects
+- [AW-DPCNN](https://github.com/1052554665/AW-DPCNN)
+- [mvdr-based-on-multi-arm-spiral-array](https://github.com/1052554665/mvdr-based-on-multi-arm-spiral-array)
+- [transformer](https://github.com/1052554665/transformer)
 ---
 > 纸上得来终觉浅 绝知此事要躬行
-## 🎯 Forks and Stars
+# 🎯 Forks and Stars
 Notion + Obsidian 双模板体系
 
-### 📚 Deep Learning
+## 📚 Deep Learning
 | 项目 | 链接 | 状态 | 是否Fork | 优先级 | 备注 |
 |------|------|------|----------|--------|------|
 | awesome-knowledge-distillation | https://github.com/dkozlov/awesome-knowledge-distillation | ❌未整理 | ❌ | ⭐⭐ | 知识蒸馏资源合集 |
@@ -52,15 +56,16 @@ Notion + Obsidian 双模板体系
 
 ---
 
-### 🔊 Acoustic
+## 🔊 Acoustic
 | 项目 | 链接 | 状态 | 是否Fork | 优先级 | 备注 |
 |------|------|------|----------|--------|------|
 | RIR-Generator | https://github.com/ehabets/RIR-Generator | ❌未整理 | ❌ | ⭐⭐⭐⭐ | 房间脉冲响应生成（阵列关键） |
+|whisper|https://github.com/1052554665/whisper|||
 
 
 ---
 
-### 📄 Paper / Experiments
+## 📄 Paper / Experiments
 
 | 项目 | 链接 | 状态 | 是否Fork | 优先级 | 备注 |
 |------|------|------|----------|--------|------|
@@ -71,7 +76,7 @@ Notion + Obsidian 双模板体系
 
 ---
 
-### 📝 Examination
+## 📝 Examination
 
 | 项目 | 链接 | 状态 | 是否Fork | 优先级 | 备注 |
 |------|------|------|----------|--------|------|
@@ -83,7 +88,7 @@ Notion + Obsidian 双模板体系
 
 ---
 
-### 🚀 Forked and Achieved
+## 🚀 Forked and Achieved
 
 
 | 项目 | 链接 | 状态 | 是否Fork | 优先级 | 备注 |
