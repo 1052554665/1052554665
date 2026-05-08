@@ -29,98 +29,85 @@ Hi, I'm Yang Chen.
 |     5| Shell          |
 </details>
 
-Here is a simple flow chart for my research.
-<!-- The mermaid can not input space. -->
-```mermaid
-graph TD;
-    Signal_collection_and_Preprocessing-->Feature_representation_and_Dataset_construction;
-    Feature_representation_and_Dataset_construction-->Fault_diagnosis;
-    Classification_network_and_Train-->Fault_diagnosis;
+
+# 整体科研工作流架构
 ```
----
-# Current projects
+1. Notion 定任务
+2. Obsidian 查知识 / 记想法
+Docker 保证环境一致 / 论文复现
+1. PyCharm 写代码
+2. GitHub 提交版本
+3. W&B / TensorBoard 记录实验
+Zotero 管理论文 / 自动生成引用
+1. Notion 记录结果
+2. Obsidian 复盘总结
+```
+
+## 整体科研工作流架构（核心设计）
+
+```
+数据层 → 知识层 → 实验层 → 项目层 → 输出层
+```
+
+| 层级  | 目标         | 工具                         |
+| --- | ---------- | -------------------------- |
+| 数据层 | 数据集、原始资料   | 本地 + NAS + Git LFS         |
+| 知识层 | 理论、论文、笔记   | Obsidian、TexStudio、Drawio、Origin                   |
+| 实验层 | 模型训练、调参    | PyCharm / VS Code + GPU服务器 |
+| 项目层 | 代码管理、版本控制  | GitHub                     |
+| 输出层 | 论文、报告、进度管理 | Notion                     |
+
+👉 核心思想：
+**Notion管“做什么”，Obsidian管“学什么”，GitHub管“做了什么”**
+
+
+## 具体落地方案
+
+- Notion：科研项目管理中枢
+- Obsidian：知识管理（构建“科研大脑”）
+- GitHub：科研工程化
+
+
+# 工具协同
+## AI工具协同
+
+| 工具      | 用途                |
+| ------- | ----------------- |
+| ChatGPT | 方案设计 / debug / 思路 |
+| Copilot、Codex | 写代码               |
+| Lingma  | 国内补充（代码生成）        |
+| Warp    | agent终端管理|
+
+
+
+## 开发工具协同
+
+
+| 工具      | 使用场景        |
+| ------- | ----------- |
+| PyCharm | 主项目（深度学习）   |
+| VS Code | 远程开发 / 轻量编辑 |
+| MATLAB  | 信号处理验证      |
+
+```text
+Ubuntu
+ ├── Miniconda
+ ├── PyTorch
+ ├── PyCharm
+ ├── Docker
+ ├── Node20(nvm)
+ ├── Claude Code
+ └── GitHub
+```
+```text
+Ubuntu
+ └── Miniconda
+      └── conda env
+           └── PyTorch
+```
+
+# My Current projects
 - [AW-DPCNN](https://github.com/1052554665/AW-DPCNN)
 - [mvdr-based-on-multi-arm-spiral-array](https://github.com/1052554665/mvdr-based-on-multi-arm-spiral-array)
 - [transformer](https://github.com/1052554665/transformer)
 ---
-> 纸上得来终觉浅 绝知此事要躬行
-# 🎯 Forks and Stars
-Notion + Obsidian 双模板体系
-
-## 📚 Deep Learning
-| 项目 | 链接 | 状态 | 是否Fork | 优先级 | 备注 |
-|------|------|------|----------|--------|------|
-| awesome-knowledge-distillation | https://github.com/dkozlov/awesome-knowledge-distillation | ❌未整理 | ❌ | ⭐⭐ | 知识蒸馏资源合集 |
-| deep-learning-for-image-processing | https://github.com/WZMIAOMIAO/deep-learning-for-image-processing | ❌未整理 | ❌ | ⭐⭐⭐ | 图像处理深度学习教程 |
-
-
----
-
-## 🔊 Acoustic
-| 项目 | 链接 | 状态 | 是否Fork | 优先级 | 备注 |
-|------|------|------|----------|--------|------|
-| RIR-Generator | https://github.com/ehabets/RIR-Generator | ❌未整理 | ❌ | ⭐⭐⭐⭐ | 房间脉冲响应生成（阵列关键） |
-|whisper|https://github.com/1052554665/whisper|||
-
-
----
-
-## 📄 Paper / Experiments
-
-| 项目 | 链接 | 状态 | 是否Fork | 优先级 | 备注 |
-|------|------|------|----------|--------|------|
-| gpuRIR | https://github.com/DavidDiazGuerra/gpuRIR | 💡可用 | ✔ | ⭐⭐⭐⭐⭐ | 可用于论文/实验（强相关） |
-| sciwrite | https://github.com/labarba/sciwrite | ❌未看 | ❌ | ⭐ | 学术写作工具 |
-| next-ai-draw-io | https://github.com/DayuanJiang/next-ai-draw-io | ❌未整理 | ❌ | ⭐⭐ | AI流程图工具 |
-
-
----
-
-## 📝 Examination
-
-| 项目 | 链接 | 状态 | 是否Fork | 优先级 | 备注 |
-|------|------|------|----------|--------|------|
-| software_designer | https://github.com/xiaomabenten/software_designer | 🔄进行中 | ❌ | ⭐⭐⭐ | 软件设计师备考 |
-| Software-Designer | https://github.com/luckyzhz/Software-Designer | 🔄进行中 | ❌ | ⭐⭐⭐ | 软件设计师资料 |
-| my-ielts | https://github.com/hefengxian/my-ielts | 🔄进行中 | ❌ | ⭐⭐ | 雅思学习 |
-| awesome-IELTS | https://github.com/shah0150/awesome-IELTS | 🔄进行中 | ❌ | ⭐⭐ | 雅思资源合集 |
-
-
----
-
-## 🚀 Forked and Achieved
-
-
-| 项目 | 链接 | 状态 | 是否Fork | 优先级 | 备注 |
-|------|------|------|----------|--------|------|
-| magic-resume | https://github.com/JOYCEQL/magic-resume | ✅已复现 | ✔ | ⭐⭐⭐ | 简历生成工具 |
-| markitdown | https://github.com/microsoft/markitdown | ❌未整理 | ❌ | ⭐⭐ | Markdown处理工具 |
-
-
----
-
-Stars:
-* 觉得有价值
-* 未来可能会看
-* 还没深入使用
-
-
-Forks:
-* 改代码
-* 运行项目
-* 要写论文复现
-* 基于它做二次开发
-
-
-```md
-README.md
-## 我做了什么
-- 跑通了
-- 改了模型参数
-- 用于声纹分类等
-
-## 遇到问题
-- CUDA问题
-- 路径问题
-```
-
