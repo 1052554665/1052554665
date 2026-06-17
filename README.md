@@ -2,22 +2,20 @@
   <img src="https://github.com/1052554665.png" width="180">
 </p>
 
-<h1 align="center">Yang Chen</h1>
+<h1 align="center">Chen Yang</h1>
 
 <p align="center">
-  AI Developer | Signal Processing | AI Research
+  Graduate Student | Signal Processing | Deep Learning
 </p>
 
 
-# Hi there 👋, I'm Yang Chen
+# Hi there 👋, I'm Chen Yang
 
-> Stay hungry, stay foolish.
->
-> — Steve Jobs
+> Do not go gentle into that good night.
 
 ## 🎓 About Me
 
-I am a AI Developer focusing on:
+I am a Graduate Student focusing on:
 
 * Signal Processing
 * Voiceprint Recognition
@@ -152,6 +150,7 @@ Output Layer
 
 ## 📫 Contact
 
+* Scholar Homepage: [https://sites.google.com/view/ncepu-chenyang/home](https://sites.google.com/view/ncepu-chenyang/home)
 * Email: [chen1052554665@gmail.com](mailto:chen1052554665@gmail.com)
 
 ---
