@@ -36,29 +36,28 @@ My current research interests include:
 
 ## 🔬 Research Interests
 
-* Transformer Fault Diagnosis
+* Vibration signal Fault Diagnosis
 * Voiceprint Recognition
 * Physics-Informed Machine Learning
 * Signal Processing
 * Deep Learning
-* Computer Vision
-* Array Signal Processing
+* Beamforming and Array Signal Processing
 
 ---
 
 ## 🚀 Current Projects
 
 ### AW-DPCNN
-<!-- [AW-DPCNN](https://github.com/1052554665/AW-DPCNN) -->
-Deep learning framework for transformer acoustic fault diagnosis.
+[AW-DPCNN](https://github.com/1052554665/AW-DPCNN)
+Research repository for transformer fault diagnosis and signal analysis.
 
 ### MVDR Based on Multi-Arm Spiral Array
-<!-- [mvdr-based-on-multi-arm-spiral-array](https://github.com/1052554665/mvdr-based-on-multi-arm-spiral-array) -->
-Research on beamforming and source localization using multi-arm spiral arrays.
+[mvdr-based-on-multi-arm-spiral-array](https://github.com/1052554665/mvdr-based-on-multi-arm-spiral-array)
+Research on beamforming and fault diagnosis using multi-arm spiral arrays.
 
-### Transformer
-<!-- [transformer](https://github.com/1052554665/transformer) -->
-Research repository for transformer fault diagnosis and signal analysis.
+### PINN for Power Transformer Fault Diagnosis
+[transformer](https://github.com/1052554665/PINN)
+Deep learning framework for power transformer acoustic fault diagnosis.
 
 ---
 
@@ -150,18 +149,18 @@ Output Layer
 
 ## 📫 Contact
 
-* Scholar Homepage: [https://sites.google.com/view/ncepu-chenyang/home](https://sites.google.com/view/ncepu-chenyang/home)
+<!-- * Scholar Homepage: [https://sites.google.com/view/ncepu-chenyang/home](https://sites.google.com/view/ncepu-chenyang/home) -->
 * Email: [chen1052554665@gmail.com](mailto:chen1052554665@gmail.com)
 
 ---
 
 ⭐ If you find my projects useful, feel free to star them.
 
-<picture>
+<!-- <picture>
  <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png)">
  <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png)">
  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+</picture> -->
 
 
 
