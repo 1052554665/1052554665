@@ -244,7 +244,7 @@ flowchart LR
 
 I am actively seeking **PhD opportunities** in signal processing, deep learning, and acoustic monitoring. I welcome collaborations and discussions.
 
-- 📧 **Email:** [220242215063@ncepu.edu.cn](mailto:220242215063@ncepu.edu.cn)
+- 📧 **Email:** [chen1052554665@gmail.com](mailto:chen1052554665@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/chenyang0640](https://www.linkedin.com/in/chenyang0640)
 - 💻 **GitHub:** [github.com/1052554665](https://github.com/1052554665)
 - 🏫 **Affiliation:** North China Electric Power University (NCEPU), School of Electrical Engineering
