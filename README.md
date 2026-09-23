@@ -2,14 +2,14 @@
   <img src="https://github.com/1052554665.png" width="180">
 </p>
 
-<h1 align="center">Chen Yang （杨臣）</h1>
+<h1 align="center">Chen Yang </h1>
 
 <p align="center">
-  <strong>M.S. Candidate</strong> | Signal Processing · Deep Learning · Acoustic Fault Diagnosis
+  <strong>M.S. Candidate</strong> | Deep Learning · Array Signal Processing · Speech Enhancement · Acoustic Fault Diagnosis
 </p>
 
 <p align="center">
-  <a href="mailto:220242215063@ncepu.edu.cn"><img src="https://img.shields.io/badge/Email-220242215063@ncepu.edu.cn-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:chen1052554665@gmail.com"><img src="https://img.shields.io/badge/Email-chen1052554665@gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/1052554665"><img src="https://img.shields.io/badge/GitHub-1052554665-black?style=flat-square&logo=github"></a>
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python">
   <img src="https://img.shields.io/badge/PyTorch-2.x-red?style=flat-square&logo=pytorch">
@@ -19,7 +19,7 @@
 
 ## 🎓 About Me
 
-I am a **Master's candidate** in Communication Engineering at **North China Electric Power University (NCEPU)**, specializing in **signal processing** and **deep learning** for industrial acoustic monitoring and fault diagnosis. I am currently applying for a **PhD program** in the field of signal processing and deep learning.
+I am a **Master's candidate** in Information and Communication Engineering at **North China Electric Power University (NCEPU)**, specializing in **array signal processing** and **deep learning** for industrial acoustic monitoring and fault diagnosis. I am currently applying for a **PhD program** in the field of signal processing and deep learning.
 
 > *"Do not go gentle into that good night."* — Dylan Thomas
 
@@ -109,7 +109,9 @@ flowchart LR
 
 > The full model reduces $\sigma_{F_1}$ by **58%** vs. baseline and outperforms Swin Transformer by **+1.44%** ($p = 0.003$).
 
-> 📄 **Manuscript:** *"PCNN-Enhanced Multi-Representation Fusion with Physics-Informed Learning for Power Transformer Fault Diagnosis"* — under review at *Journal of Failure Analysis and Prevention*.
+<!-- > 📄 **Manuscript:** *"PCNN-Enhanced Multi-Representation Fusion with Physics-Informed Learning for Power Transformer Fault Diagnosis"* — under review at *Journal of Failure Analysis and Prevention*. -->
+
+> 📄 **Manuscript:** *"PCNN-Enhanced Multi-Representation Fusion with Physics-Informed Learning for Power Transformer Fault Diagnosis"* — In preparation.
 
 
 ### ⭐ Project 3 — MVDR-Based Acoustic Source Separation on Multi-Arm Spiral Array (In Progress)
@@ -144,7 +146,7 @@ flowchart LR
 - **6-model ensemble classification**: SVM, RF, LDA, MLP, ResNet18, EfficientNet-B0 with PCA dimensionality reduction
 
 **Technical Highlights:**
-- Fraunhofer far-field steering vector construction
+<!-- - Fraunhofer far-field steering vector construction -->
 - Wideband MVDR with eigenvalue-based diagonal loading
 - Comprehensive eigenspectrum analysis across reflection conditions
 - Real acoustic signal validation with physical measurements
@@ -157,8 +159,8 @@ flowchart LR
 | Metric | Value |
 |--------|-------|
 | **Completed Research Workflows** | 2 (end-to-end: data → experiment → manuscript) |
-| **Manuscripts Under Review** | 2 |
-| **Manuscripts in Preparation** | 1 |
+| **Manuscripts Under Review** | 1 |
+| **Manuscripts in Preparation** | 2 |
 | **Custom Datasets Constructed** | 5+ (CWRU variants, MIMII, real transformer) |
 | **Model Architectures Implemented** | 15+ (VGG, ResNet, EfficientNet, ConvNeXt, ViT, Swin-T, AlexNet-SE, PINN variants) |
 | **Key Methods Developed** | AW-DPCNN fusion, MSCA-VGG16, PCNN enhancement, PINN Laplacian regularization, A₁−B₁ differential activation |
