@@ -5,12 +5,14 @@
 <h1 align="center">Chen Yang </h1>
 
 <p align="center">
-  <strong>M.S. Candidate</strong> | Deep Learning for Signal Processing · Speech Enhancement and Separation · Microphone Array Signal Processing
+  <strong>M.S. Candidate</strong> | Deep Learning for Signal Processing · Speech Enhancement · Array Signal Processing
 </p>
 
 <p align="center">
   <a href="mailto:chen1052554665@gmail.com"><img src="https://img.shields.io/badge/Email-chen1052554665@gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/1052554665"><img src="https://img.shields.io/badge/GitHub-1052554665-black?style=flat-square&logo=github"></a>
+  <a href="https://blog.csdn.net/weixin_44218363"><img src="https://img.shields.io/badge/CSDN-Blog-FC5531?style=flat-square&logo=csdn&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/WeChat-%E5%AD%A6%E4%B9%A0%E6%98%AF%E7%A7%8D%E4%BF%A1%E4%BB%B0-07C160?style=flat-square&logo=wechat&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python">
   <img src="https://img.shields.io/badge/PyTorch-2.x-red?style=flat-square&logo=pytorch">
   <img src="https://img.shields.io/badge/MATLAB-R2026a-orange?style=flat-square">
@@ -23,7 +25,7 @@ I am a **Master's candidate** in Information and Communication Engineering at **
 
 > *"Do not go gentle into that good night."* — Dylan Thomas
 
-My research integrates **machine learning**, **array signal processing**, and **multi-representation fusion** to address real-world challenges in acoustic-based equipment condition monitoring. I have independently led two complete research workflows from problem formulation through experimentation to manuscript preparation.
+My research integrates **deep learning**, **array signal processing**, and **multi-representation fusion** to address real-world challenges in acoustic-based equipment condition monitoring. I have independently led three complete research workflows from problem formulation through experimentation to manuscript preparation.
 
 
 ## 🔬 Research Interests
@@ -158,7 +160,7 @@ flowchart LR
 
 | Metric | Value |
 |--------|-------|
-| **Completed Research Workflows** | 2 (end-to-end: data → experiment → manuscript) |
+| **Completed Research Workflows** | 3 (end-to-end: data → experiment → manuscript) |
 | **Manuscripts Under Review** | 1 |
 | **Manuscripts in Preparation** | 2 |
 | **Custom Datasets Constructed** | 5+ (CWRU variants, MIMII, real transformer) |
@@ -242,14 +244,33 @@ flowchart LR
 | **Warp** | AI-powered terminal for system operations |
 
 
+## 🎨 Beyond Research
+
+Research is where I focus my curiosity — photography is where I let it wander. Both are exercises in noticing structure, contrast, and detail; one reads signals, the other reads light.
+
+| Space | Description |
+|-------|-------------|
+| **📓 Research Hub** | My open Notion notebook — literature notes, method design, experiment logs, and PhD planning. A transparent record of how the research actually happens. |
+| **📷 Photography Gallery** | A personal collection of my photographic work — a creative counterbalance to the lab that keeps my visual instincts sharp. |
+
+<p>
+  <a href="https://app.notion.com/p/Research-Hub-3584f551a872805b976de9bc25d9a753?source=copy_link"><img src="https://img.shields.io/badge/Notion-Research%20Hub-black?style=flat-square&logo=notion&logoColor=white"></a>
+  <a href="https://app.notion.com/p/2459a01c9fb8484fb3cf78f05b073bfa?v=dc1f4ba2f2c043d69d3dd4cdc5846aba&source=copy_link"><img src="https://img.shields.io/badge/Notion-Photography%20Gallery-4A90D9?style=flat-square&logo=notion&logoColor=white"></a>
+</p>
+
+
 ## 📫 Contact & Collaboration
 
 I am actively seeking **PhD opportunities** in signal processing, deep learning, and acoustic monitoring. I welcome collaborations and discussions.
 
 - 📧 **Email:** [chen1052554665@gmail.com](mailto:chen1052554665@gmail.com)
+- 📚 **Research Hub (Notion):** [Open research notebook](https://app.notion.com/p/Research-Hub-3584f551a872805b976de9bc25d9a753?source=copy_link)
+- 📷 **Photography:** [Personal gallery](https://app.notion.com/p/2459a01c9fb8484fb3cf78f05b073bfa?v=dc1f4ba2f2c043d69d3dd4cdc5846aba&source=copy_link)
 - 💼 **LinkedIn:** [linkedin.com/in/chenyang0640](https://www.linkedin.com/in/chenyang0640)
 - 💻 **GitHub:** [github.com/1052554665](https://github.com/1052554665)
-- 🏫 **Affiliation:** North China Electric Power University (NCEPU), School of Electrical Engineering
+- 📝 **CSDN Blog:** [blog.csdn.net/weixin_44218363](https://blog.csdn.net/weixin_44218363)
+- 💬 **WeChat Official Account:** 学习是种信仰
+- 🏫 **Affiliation:** North China Electric Power University (NCEPU), Department of Electronic and Communication Engineering.
 
 <p align="center">
   <sub>© 2025–2026 Chen Yang. Built with ❤️ for reproducible research.</sub>
