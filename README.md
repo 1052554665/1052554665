@@ -5,7 +5,7 @@
 <h1 align="center">Chen Yang </h1>
 
 <p align="center">
-  <strong>M.S. Candidate</strong> | Deep Learning · Array Signal Processing · Speech Enhancement · Acoustic Fault Diagnosis
+  <strong>M.S. Candidate</strong> | Deep Learning for Signal Processing · Speech Enhancement and Separation · Microphone Array Signal Processing
 </p>
 
 <p align="center">
