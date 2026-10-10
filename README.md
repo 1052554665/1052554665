@@ -12,7 +12,7 @@
   <a href="mailto:chen1052554665@gmail.com"><img src="https://img.shields.io/badge/Email-chen1052554665@gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/1052554665"><img src="https://img.shields.io/badge/GitHub-1052554665-black?style=flat-square&logo=github"></a>
   <a href="https://blog.csdn.net/weixin_44218363"><img src="https://img.shields.io/badge/CSDN-Blog-FC5531?style=flat-square&logo=csdn&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/WeChat-%E5%AD%A6%E4%B9%A0%E6%98%AF%E7%A7%8D%E4%BF%A1%E4%BB%B0-07C160?style=flat-square&logo=wechat&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/WeChat-%E5%AD%A6%E4%B9%A0%E6%98%AF%E7%A7%8D%E4%BF%A1%E4%BB%B0-07C160?style=flat-square&logo=wechat&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python">
   <img src="https://img.shields.io/badge/PyTorch-2.x-red?style=flat-square&logo=pytorch">
   <img src="https://img.shields.io/badge/MATLAB-R2026a-orange?style=flat-square">
@@ -269,7 +269,7 @@ I am actively seeking **PhD opportunities** in signal processing, deep learning,
 - 💼 **LinkedIn:** [linkedin.com/in/chenyang0640](https://www.linkedin.com/in/chenyang0640)
 - 💻 **GitHub:** [github.com/1052554665](https://github.com/1052554665)
 - 📝 **CSDN Blog:** [blog.csdn.net/weixin_44218363](https://blog.csdn.net/weixin_44218363)
-- 💬 **WeChat Official Account:** 学习是种信仰
+<!-- - 💬 **WeChat Official Account:** 学习是种信仰 -->
 - 🏫 **Affiliation:** North China Electric Power University (NCEPU), Department of Electronic and Communication Engineering.
 
 <p align="center">
