@@ -21,7 +21,7 @@
 
 ## 🎓 About Me
 
-I am a **Master's candidate** in Information and Communication Engineering at **North China Electric Power University (NCEPU)**, specializing in **array signal processing** and **deep learning** for industrial acoustic monitoring and fault diagnosis. I am currently applying for a **PhD program** in the field of signal processing and deep learning.
+I am a **Master's candidate** in Information and Communication Engineering at **North China Electric Power University (NCEPU)**, specializing in **array signal processing** and **deep learning** for industrial acoustic monitoring and fault diagnosis. I am currently applying for a **PhD program** in the field of deep learning for signal processing, engineering acoustics, multimodal fusion
 
 > *"Do not go gentle into that good night."* — Dylan Thomas
 
